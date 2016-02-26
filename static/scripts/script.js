@@ -24,11 +24,11 @@ var _FDFeedBack = {
     color: '#ffffff',
     fontSize: '14px',
     borderRadius: 5,
-    buttonSide: 'right',
+    buttonSide: 'left',
     buttonAlign: 'center',
     popup: {
         hideCloseBtn: false,
-        host: 'formdesigner.ru',
+        host: 'egais76.ru',
         overlay: {
             background: '#000000',
             opacity: 0.1
