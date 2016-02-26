@@ -26,7 +26,7 @@ var _FDFeedBack = {
     buttonAlign: 'center',
     popup: {
         hideCloseBtn: false,
-        host: 'egais76.ru',
+        host: 'formdesigner.ru',
         overlay: {
             background: '#000000',
             opacity: 0.1
