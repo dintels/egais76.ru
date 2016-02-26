@@ -4,12 +4,10 @@ $(function () {
 
 var PozvonimcomWidgetConfig = {
     ready: function () {
-        $('.callback').click(DoCallback);
     }
 };
 
-function DoCallback(event) {
-    event.preventDefault();
+function DoCallback() {
     if (PozvonimcomWidget) {
         PozvonimcomWidget.api.show();
     }
